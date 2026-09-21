@@ -1,0 +1,6 @@
+* text=auto eol=lf
+vendor/notification-center-styler.wh.cpp -text
+data/** -text
+*.png binary
+*.jpg binary
+*.zip binary

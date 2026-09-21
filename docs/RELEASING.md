@@ -3,7 +3,7 @@
 源码提交到 Git，安装程序作为 GitHub Release 附件分发，不提交 `build/`、`releases/` 或本机配置。当前版本仍使用预览发布。
 
 1. 更新 `project.json`、安装器版本、中英文 README 和 CHANGELOG。
-2. 在 Windows 构建机器上运行 `python -m unittest discover -s tests -v`。构建更新器、原生 DLL 和安装包，命令见 README。
+2. 在 Windows 构建机器上运行 `python -m unittest discover -s tests -v`。构建更新器、原生 DLL 和安装包，命令见 [开发与构建](BUILDING.md)。
 3. 检查安装包包含项目及依赖许可证、对应源码。核对支持的 Windows 版本和已知限制。
 4. 提交源码后，从该提交创建带说明的标签。当前标签格式为 `<版本>-<日期>-<短提交号>`；Release 标为 pre-release。
 5. 先创建 Release 草稿，上传安装器与 `SHA256SUMS.txt`，核对附件名称、大小和 SHA-256，再发布草稿。每个发布使用新标签；不要替换已发布的二进制附件。

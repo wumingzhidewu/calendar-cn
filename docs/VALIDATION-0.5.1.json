@@ -1,0 +1,25 @@
+{
+  "version": "0.5.1-preview",
+  "checkedAt": "2026-09-21T16:54:48.801399+08:00",
+  "testsPassed": 41,
+  "schedule": {
+    "intervalDays": 7,
+    "loginTrigger": false,
+    "restartCount": 0,
+    "nextLocalRun": "2026-09-28 12:49:49",
+    "frozenUpdaterRecentRunSkippedNetwork": true,
+    "lastTaskResult": 0
+  },
+  "layout": {
+    "change": "Zero desired-size Canvas decoration in native CalendarViewDayItem empty template; restore original template on recycle/unload. Removed forced viewport min-height experiments.",
+    "diagnosticObservation": "Before final badge build: expanded CalendarCenterGrid 336x474, CalendarControl 334x350, date cells 41x41.",
+    "finalBuildVisualVerification": "Pending: user must open native calendar and check October 1-7 and October 10 badges.",
+    "nativeCalendarPreserved": true
+  },
+  "installer": {
+    "path": "releases/Calendar-CN-Setup-0.5.1-x64.exe",
+    "sha256": "b782e3eb79cc74a9c32b7f03ffc0f1ad5f2fa7b7d1ee98b3fe30433472cc8aab"
+  },
+  "supersededBy": "0.5.2-preview",
+  "laterObservedFailure": "Theme switching reproduced 36731 tracked day items and 98px CalendarView. Do not treat 0.5.1 as a verified layout fix."
+}

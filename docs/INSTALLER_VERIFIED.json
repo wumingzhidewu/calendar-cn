@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-09-21T13:16:47.4557126+08:00",
+  "version": "0.3.0-preview",
+  "testedFunctionalInstallerSha256": "f9592ac30046d78c10c8f27e6ae2d8d35d9bad98286d219d4da2736457238fa0",
+  "platform": "Windows 11 23H2 x64, build 22631",
+  "conflictPreflight": {
+    "originalProcessPreserved": true,
+    "noInstallDirectoryCreated": true,
+    "exitCode": 11
+  },
+  "installation": {
+    "chineseStartMenuEntries": true,
+    "exitCode": 0,
+    "registeredInInstalledApps": true
+  },
+  "startupTask": {
+    "exitCode": 0,
+    "packagedLoaderProcessStarted": true,
+    "runLevel": "Limited"
+  },
+  "updaterTask": {
+    "runtimePythonRequired": false,
+    "exitCode": 0,
+    "runLevel": "Limited",
+    "dataCheckSucceeded": true
+  },
+  "manager": {
+    "chineseStatusReport": true,
+    "visualScreenshotVerified": false,
+    "statusCommandExitCode": 0,
+    "accessibilityControlsPresent": true
+  },
+  "uninstall": {
+    "unrelatedFilePreserved": true,
+    "appRegistrationRemoved": true,
+    "exitCode": 0,
+    "bothTasksRemoved": true,
+    "runtimeDirectoryRemoved": true
+  },
+  "prototype": {
+    "originalAutoUpdateTaskPreserved": true,
+    "restored": true
+  },
+  "unitTests": 30,
+  "pending": [
+    "Calendar layout and month navigation visual acceptance",
+    "First injection in a clean login session: prior prototype DLL was retained in suspended shell host during switching test",
+    "Manager pixel-level visual acceptance: capture returned black and activation was denied"
+  ],
+  "finalInstallerSha256": "8f1f0e2b3740156fc0a23de72db272e4b224144720eef7f4a9808cb5fd1ac7cd",
+  "finalPackageRecheck": {
+    "finalChanges": "License/documentation inclusion and UTF-16 installer diagnostics; runtime logic unchanged",
+    "conflictPreflight": "PASS",
+    "chineseErrorEncoding": "PASS"
+  }
+}

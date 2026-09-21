@@ -1,0 +1,40 @@
+{
+  "version": "0.4.0-preview",
+  "checkedAt": "2026-09-21T14:28:44.8954528+08:00",
+  "themeCount": 10,
+  "backgroundModes": [
+    "art",
+    "gradient",
+    "solid"
+  ],
+  "presetCount": 30,
+  "unitTestsPassed": 37,
+  "windowsThemeConfigurationTests": [
+    "Apply artwork with Chinese and space-containing paths",
+    "Switch gradient and solid backgrounds",
+    "Restore original settings",
+    "Reject unknown theme without changing configuration"
+  ],
+  "designs": {
+    "model": "gpt-image-2",
+    "chineseTypesetByCode": true,
+    "backgroundsGenerated": 10,
+    "sampleMonth": "2026-10",
+    "dayOffDates": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "adjustedWorkingDay": 10,
+    "previewsInspected": 10
+  },
+  "pending": [
+    "Real native-calendar rendering for each theme",
+    "Local ImageBrush loading in the shell host",
+    "DPI, theme states and month navigation visual acceptance"
+  ]
+}

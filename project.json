@@ -1,0 +1,13 @@
+{
+  "name": "calendar-cn",
+  "version": "0.5.3-preview",
+  "license": "GPL-3.0-only",
+  "testedWindowsBuild": "22631",
+  "targetProcess": "ShellExperienceHost.exe",
+  "windhawkVersion": "1.7.3",
+  "upstreamStylerUrl": "https://github.com/ramensoftware/windhawk-mods/blob/main/mods/windows-11-notification-center-styler.wh.cpp",
+  "upstreamStylerSha256": "fa34c1de8c3ca3482ec21860f96170bb9ab47bcf7c4bfcdbE91cd300818cdd1c",
+  "holidayDataRepository": "https://github.com/NateScarlet/holiday-cn",
+  "holidayDataSnapshotCommit": "18c8f140cd8574faf72c8bb5cd0a9bdf9d1c1b6c",
+  "updaterBuildDependency": "PyInstaller==6.22.3"
+}

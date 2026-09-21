@@ -1,0 +1,20 @@
+{
+  "version": "0.5.3-preview",
+  "checkedAt": "2026-09-21T17:23:08.808850+08:00",
+  "changes": [
+    "Bind overlay Translation to ScrollViewerManipulationPropertySet on compositor, independent of 250ms UI polling.",
+    "Keep date badge coordinates in scroll content space, clip at fixed viewport, refresh recycled date items on Rendering.",
+    "Stop compositor animation and unregister Rendering on unload.",
+    "Set current theme to dunhuang-reverie/art; show applied background mode in theme chooser."
+  ],
+  "documentation": "https://learn.microsoft.com/en-us/windows/apps/develop/composition/scroll-input-animations",
+  "testsPassed": 41,
+  "liveDllMatchesBuild": true,
+  "selectedTheme": {
+    "id": "dunhuang-reverie",
+    "backgroundMode": "art",
+    "appliedAt": "2026-09-21T17:19:31.1670011+08:00"
+  },
+  "visualScrollVerification": "Pending user opening and scrolling native calendar.",
+  "installerSha256": "ec6ef59827242d9a0f85c376c9ed890c23d16d33cc559a339a613e615b569613"
+}

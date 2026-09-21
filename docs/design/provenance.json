@@ -1,0 +1,233 @@
+{
+  "model": "gpt-image-2",
+  "reference": "reference/windows-calendar-original.png",
+  "layoutReference": "reference/layout-reference.png",
+  "artDirectionReference": "reference/expressive-art-direction.png",
+  "expressiveLayoutGuide": "reference/expressive-layout-guide.png",
+  "sampleMonth": "2026-10",
+  "typography": "Deterministic Pillow rendering; Microsoft YaHei UI, SimSun, Bahnschrift",
+  "lunarDates": "Windows ChineseLunisolarCalendar",
+  "holidayData": "data/years/2026.json",
+  "images": [
+    {
+      "id": "frost-blue",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "7e34accc698ed101bc906492b59a5d405e6855b492412f8ebce8da2fdb90d673",
+      "runtimeSha256": "0d1e704160670fe9041ca3d24fb7ae46de5e1b2cc0fcfa386cbe9334aa6a8641"
+    },
+    {
+      "id": "moon-ink",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "47394b09c832139ed547634127a61a1ade8adb38d55bf061c06ee23eb6117dff",
+      "runtimeSha256": "a138b0feedd50cff17e46ffa9896bd1ce9be640bc9dc6ba3c7777b66c6591c8c"
+    },
+    {
+      "id": "moss-garden",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "21c5764b5b076f514feaca94a9c7ad1a63453bfacc620ea1ce6074ce1904c64e",
+      "runtimeSha256": "746fc70061df3f11a5850164612219a14b222ca7f8462fca0f12372c879d2f3f"
+    },
+    {
+      "id": "amber-paper",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "9b5ffa79a42ce99a0e219308a6fc8536cb6cf578b0638619bb8241c879818f3e",
+      "runtimeSha256": "978dc0ed53a6ddd6bcef5c343480c1a56f0396ac46b3b25cd047ffe1014645d5"
+    },
+    {
+      "id": "sakura-dawn",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "2302858f97a58b91113c1685d9452ec9ddf5d95e3fe1ed98421aebde59582a85",
+      "runtimeSha256": "0c5a5060c71375ec689c977d787bb9b09c7a5d1bf9b4de03a2ebc321582e8f56"
+    },
+    {
+      "id": "midnight-tide",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "938673a6d995f2a9dbf6b867b7ce82ffb4c6a8a4d4a1bb000107a0c100c5d7bf",
+      "runtimeSha256": "2fd41df76b21855df8c8ef60f6e4a962aa2cc42718ab09bc4b77d531834df2c7"
+    },
+    {
+      "id": "aurora-violet",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "9b04bf8572ecb541454e77d8a58ae92d126b889048a4d5ca7b28da89ce8e9081",
+      "runtimeSha256": "5e080088f715d22d2609c55ab34b2cf27da35ec918706cace345d25808a753ba"
+    },
+    {
+      "id": "graphite-studio",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "8d13311cf60c83a716aaca29fcc4ebb4121da27254e1f7d0cf587e585e8dfc0e",
+      "runtimeSha256": "6e2924f531173e58427894329ef03621a65a300108d685d88aa59ca8a4c7c7e9"
+    },
+    {
+      "id": "vermilion-seal",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "4c8ee57e292c388b8cd819916d49107534a5b1d9e885e217142bb4405dc067ad",
+      "runtimeSha256": "27c8848a69bc17bd2ed471e3390f88000a3ce8242f8b44933324fc6ad257ee5e"
+    },
+    {
+      "id": "desert-dusk",
+      "collection": "classic",
+      "promptFile": null,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "3f0095e00a8d1c82c30005f3c7b79e0b1f64553d648ec16501d486cd51be01e6",
+      "runtimeSha256": "968acf65a79a6b2e4b3f138f8fb6602b4b8111bb632cc365838a4702fb1634ad"
+    },
+    {
+      "id": "star-rail-letter",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/star-rail-letter.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "0a1609a6118ea3cd99feb94d2d537d2877921e955d5927a0edebbe03347cd35b",
+      "runtimeSha256": "c5af1a3e514144c030a1660f7b3f906996b0fd0c9d7868556ef2e3af97a48bc3"
+    },
+    {
+      "id": "seaside-soda",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/seaside-soda.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "4d6d29733b171ffe7f61cc1a7ab619bb2fe44c325dfff978c71862bcdee46cc5",
+      "runtimeSha256": "b2b77a50e947271a079c2ec529ac8c8a3a5d38283baf5c1056f2ce73ff3065bb"
+    },
+    {
+      "id": "neon-rain",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/neon-rain.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "a8d72dcc6f41808098a91af1d155cf39bfb1364e0fa5d27967d2610c38710522",
+      "runtimeSha256": "4340d835e57d1b2769d4458d9cd61403af054e205f9f20177b700c48c389ff96"
+    },
+    {
+      "id": "mecha-protocol",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/mecha-protocol.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "91996bb2caaf06f90c5804769807c7e58c41d23e126eb4489f0d2f30bca445f7",
+      "runtimeSha256": "57c1ea34d5b24f95f545b03c63cbb8a4b589c5c0fd11ab8713cb9b8a501a4d03"
+    },
+    {
+      "id": "jade-panorama",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/jade-panorama.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "fac2f4e6b5ef6fcaa150190875075f42484c11ab7fac0e6508802cf681921664",
+      "runtimeSha256": "ba0f8f34677732b1d1092ea6a3f032d6cd1e15316c2004ea1d2238de08b860a2"
+    },
+    {
+      "id": "dunhuang-reverie",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/dunhuang-reverie.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "9c9c18f4e87780a084e555e973300e61fe4c4b32e5e4b4940864593f4fb39b64",
+      "runtimeSha256": "3a7c84ffd33ad5e14457290b7a32e80cc84c1d7ec98da12d0ec4b5f37401f323"
+    },
+    {
+      "id": "changan-moon",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/changan-moon.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "4f43970ae2d164fd249811a166336806ba73b299713bf990f085b07c0019abc2",
+      "runtimeSha256": "d00f4f25947aa3aa21b7eaafbea294207b00b54ef5d9292a99b06236524f853b"
+    },
+    {
+      "id": "orbital-atlas",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/orbital-atlas.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "cfa987fe57bac9353b77098821851656681eb6c863e96a960a3fd59290f3d53b",
+      "runtimeSha256": "a893f731da14fa36a98723831d66912d1f231a1c8fa270df02aa257d4ed8fa0d"
+    },
+    {
+      "id": "candy-dreamland",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/candy-dreamland.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "df6d3d82b9aae534c0e7152a6bba011037f48dad920be030716ac3c555f0f0a6",
+      "runtimeSha256": "ae5f6d8f12decd5b44b1697910d16624accc7aa1e758e1a279008d53242e84f2"
+    },
+    {
+      "id": "abyssal-codex",
+      "collection": "expressive",
+      "promptFile": "themes/prompts/abyssal-codex.txt",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "generatedSha256": "26ca3df5958f81399b361926b9f41e67d0aadba343dd99079a88eb8c62d45609",
+      "runtimeSha256": "2db1bb14c229ae3c49c54a035a61af47135eefd3d7b33c42e312d56a668d4b3b"
+    }
+  ]
+}

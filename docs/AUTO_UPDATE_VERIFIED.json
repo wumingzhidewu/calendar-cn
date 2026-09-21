@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-09-21T12:47:01.0929486+08:00",
+  "taskName": "NativeCalendarHolidays-DataUpdate-<installation-id>",
+  "taskState": "Ready",
+  "lastTaskResult": 0,
+  "lastRunTime": "2026-09-21T12:44:44.0000000+08:00",
+  "nextRunTime": "2026-09-22T09:00:00.0000000+08:00",
+  "dailyAt": "09:00",
+  "logonDelaySeconds": 60,
+  "retryMinutes": 15,
+  "retryCount": 3,
+  "runLevel": "Limited",
+  "standaloneExecutable": true,
+  "loaderAutostartChanged": false,
+  "liveTsvMatchesUpdater": true,
+  "updaterState": {
+    "lastAttemptAt": "2026-09-21T12:44:48.276597+08:00",
+    "requestedYears": [
+      2025,
+      2026,
+      2027
+    ],
+    "lastSuccessfulCheckAt": "2026-09-21T12:44:48.276597+08:00",
+    "lastDataChangeAt": "2026-09-21T12:42:06.776018+08:00",
+    "status": "ok",
+    "dataChanged": false,
+    "availableYears": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "unpublishedYears": [
+      2027
+    ],
+    "yearOutcomes": {
+      "2025": "published",
+      "2026": "published",
+      "2027": "unpublished"
+    },
+    "failedYears": [],
+    "messages": [
+      "2025: updated",
+      "2026: updated",
+      "2027: unpublished (empty placeholder)"
+    ],
+    "recordCount": 678,
+    "deployedSha256": "83a3a875c2a621f98b4c4ba0de5560ac8fa829a2874a589fa5fcdf2ddad65a61"
+  },
+  "historicalNote": "Historical verification before 0.5.1. Current versions check every seven days without a login trigger; see AUTO_UPDATE.md."
+}

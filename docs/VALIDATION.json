@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-09-21T12:47:01.1155458+08:00",
+  "projectVersion": "0.2.0-preview",
+  "unitTests": {
+    "passed": 29,
+    "failed": 0
+  },
+  "nativeBuild": {
+    "windhawk": "1.7.3",
+    "result": "PASS",
+    "target": "x86_64-w64-mingw32",
+    "sha256": "bffab33dca79f812fa0a5da1c0f6a22a36b240f91860f02cbb5609a3b1e7c0f2"
+  },
+  "data": {
+    "noticeYears": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "unpublishedYears": [
+      2027
+    ],
+    "onlineUpdate": "PASS: 2025, 2026 refreshed; 2027 recognized as empty placeholder",
+    "records": 678
+  },
+  "installSmoke": {
+    "result": "PASS",
+    "started": false,
+    "isolatedDirectory": true
+  },
+  "originalPrototype": {
+    "changedByPackaging": true,
+    "loadUnloadReload": "PASS on Windows 11 22631",
+    "changeScope": "Automatic data updater and rolling multi-year data only; existing injection DLL retained"
+  },
+  "pending": [
+    "Visual overlap and month navigation acceptance",
+    "New packaged DLL live injection acceptance",
+    "Other Windows versions, DPI and theme combinations"
+  ],
+  "autostartEnabled": false,
+  "automaticDataUpdate": {
+    "standaloneExe": true,
+    "runtimeDataEntries": 678,
+    "enabled": true,
+    "scheduledRunsVerified": true,
+    "lastTaskResult": 0,
+    "rollingYearAndPublicationTests": "PASS"
+  }
+}

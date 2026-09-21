@@ -1,0 +1,23 @@
+{
+  "version": "0.5.2-preview",
+  "checkedAt": "2026-09-21T17:09:56.580352+08:00",
+  "observedFailure": {
+    "selectedTheme": "dunhuang-reverie",
+    "backgroundMode": "gradient",
+    "calendarHeight": 98,
+    "trackedItems": 36731,
+    "hostPid": 50876
+  },
+  "recovery": "Disabled previous mod, restarted only ShellExperienceHost, deployed new DLL and re-enabled selected theme.",
+  "changes": [
+    "No CalendarViewDayItem Template or ApplyTemplate calls.",
+    "Badges are non-interactive Canvas decorations attached to CalendarCenterGrid.",
+    "Clip decorations to ancestor scroll viewports; remove on recycling/unload.",
+    "Remove DayItemFontFamily overrides in all 60 presets.",
+    "Bound tracked items at 1024 as a defensive limit."
+  ],
+  "testsPassed": 41,
+  "runtimeDllMatchesBuild": true,
+  "realWindowVerification": "Pending user opening the calendar; no final claim of successful visual verification.",
+  "scheduleIntervalDays": 7
+}

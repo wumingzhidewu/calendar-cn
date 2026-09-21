@@ -1,0 +1,22 @@
+{
+  "version": "0.5.0-preview",
+  "createdAt": "2026-09-21T15:29:10.3977046+08:00",
+  "newThemes": 10,
+  "retainedThemes": 10,
+  "totalThemes": 20,
+  "presetCount": 60,
+  "model": "gpt-image-2",
+  "newThemesInspected": 10,
+  "promptFiles": 10,
+  "nativeFontVariants": [
+    "Microsoft YaHei UI",
+    "SimSun",
+    "Bahnschrift"
+  ],
+  "testsPassed": 39,
+  "holidayBadges": "Green rest / orange adjusted workday",
+  "liveDeployment": "Installed into current NativeCalendarHolidays runtime",
+  "newThemeVisualAcceptance": "Design previews inspected; native theme mechanism previously confirmed, individual new skins not yet user-accepted",
+  "selectedShowcase": "star-rail-letter",
+  "deployedComponentSha256": "e743d32d0b61e9df0db3279de30e28b289afe41b5cc48e28c92d55e3b7a68752"
+}

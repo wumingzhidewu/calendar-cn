@@ -1,0 +1,216 @@
+{
+  "generatedAt": "2026-09-21T04:29:26.712249+00:00",
+  "availableYears": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "unpublishedYears": [
+    2027
+  ],
+  "entryCount": 678,
+  "tsvSha256": "83a3a875c2a621f98b4c4ba0de5560ac8fa829a2874a589fa5fcdf2ddad65a61",
+  "sources": [
+    {
+      "year": 2007,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2007.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_1761.htm"
+      ],
+      "sha256": "ff88074353f69e40818eab919964cb217565050cedebfbb112771eff3f7795e1",
+      "entries": 32
+    },
+    {
+      "year": 2008,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2008.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_1645.htm"
+      ],
+      "sha256": "4225ba657c7f084f3a94d928b4572b5d6b7534abb46b03a3fba11f1f8cd721ac",
+      "entries": 35
+    },
+    {
+      "year": 2009,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2009.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2008-12/10/content_1572.htm"
+      ],
+      "sha256": "2cf314f1c21c75461f989d12f57c75a2bcd35825ad98f158b69e1b9c5fe206e7",
+      "entries": 33
+    },
+    {
+      "year": 2010,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2010.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2009-12/08/content_1476.htm"
+      ],
+      "sha256": "771cd1ea61c108da40f764fce1410ccc81d2b099deaf0d6af420980c06f48155",
+      "entries": 37
+    },
+    {
+      "year": 2011,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2011.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2010-12/10/content_1423.htm"
+      ],
+      "sha256": "de83e7ead86a95da4c1cf2cc83bf3f349556a6f21a825e2b3c5918ff184fbde4",
+      "entries": 34
+    },
+    {
+      "year": 2012,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2012.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2011-12/06/content_1411.htm"
+      ],
+      "sha256": "14eeb0e72822b9914f52b7faf945a19eefd36947abba8f49cbf96bcc29277079",
+      "entries": 34
+    },
+    {
+      "year": 2013,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2013.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2012-12/10/content_1353.htm"
+      ],
+      "sha256": "d7b99c48a76d141828cebed1d40daee1345af7e43225db882fe429414f450712",
+      "entries": 41
+    },
+    {
+      "year": 2014,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2014.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2014-01/02/content_1194.htm"
+      ],
+      "sha256": "6e61e2d3930ac6ecd86c309fa764f452eb067c94a0d1f1c1f5afaaf0101d974e",
+      "entries": 27
+    },
+    {
+      "year": 2015,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2015.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2014-12/16/content_9302.htm",
+        "http://www.gov.cn/zhengce/zhengceku/2015-05/13/content_9742.htm"
+      ],
+      "sha256": "ad6b59c07965298d2ebe31adbccd3840d401d8077f272de9ae90a95724749bed",
+      "entries": 31
+    },
+    {
+      "year": 2016,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2016.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2015-12/10/content_10394.htm"
+      ],
+      "sha256": "6c0ae532b9f27a6d97bc684e3bd65d568825f20e2298ae9f783c7206c30a30ff",
+      "entries": 30
+    },
+    {
+      "year": 2017,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2017.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2016-12/01/content_5141603.htm"
+      ],
+      "sha256": "118ea25412ee20e66aac7372691a0014d9a6a05bf494701febcbb905afc27e3d",
+      "entries": 29
+    },
+    {
+      "year": 2018,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2018.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2017-11/30/content_5243579.htm"
+      ],
+      "sha256": "ff2b00ca1ddd0fe4a4793af116f429880673a0845c2b1f997d1eacefb1d233c7",
+      "entries": 29
+    },
+    {
+      "year": 2019,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2019.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2018-12/06/content_5346276.htm",
+        "http://www.gov.cn/zhengce/zhengceku/2019-03/22/content_5375877.htm"
+      ],
+      "sha256": "25a9dbb24f59528609f75ea8e9fdb455567ce475e9704a25f428636c0f55f600",
+      "entries": 31
+    },
+    {
+      "year": 2020,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2020.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2019-11/21/content_5454164.htm",
+        "http://www.gov.cn/zhengce/zhengceku/2020-01/27/content_5472352.htm"
+      ],
+      "sha256": "1bab130e86461bf58b5534e9f2941e8ec134267ae2d07bb040bc46a514c4d8ce",
+      "entries": 37
+    },
+    {
+      "year": 2021,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2021.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2020-11/25/content_5564127.htm"
+      ],
+      "sha256": "68f18d2aec32c3d7e142ebf7cd6dd7b91d411d82f2f62a46fba230bacfee9895",
+      "entries": 38
+    },
+    {
+      "year": 2022,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2022.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2021-10/25/content_5644835.htm"
+      ],
+      "sha256": "4d2ac0f624662a430cd3d4e79110393c1ce8c8673af2495b044105ad624058b4",
+      "entries": 38
+    },
+    {
+      "year": 2023,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2023.json",
+      "papers": [
+        "http://www.gov.cn/zhengce/zhengceku/2022-12/08/content_5730844.htm"
+      ],
+      "sha256": "cef39e2c11b781377e389bd999d7394ddf17e422cf640c0cce35ad6f04626839",
+      "entries": 34
+    },
+    {
+      "year": 2024,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2024.json",
+      "papers": [
+        "https://www.gov.cn/zhengce/zhengceku/202310/content_6911528.htm"
+      ],
+      "sha256": "4513665f4d121f3e8763e0b82f171237ef75ef84b6f05c04a39121a445c03cd0",
+      "entries": 36
+    },
+    {
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2025.json",
+      "papers": [
+        "https://www.gov.cn/zhengce/zhengceku/202411/content_6986383.htm"
+      ],
+      "sha256": "33e3023d3af27e158d31196a3cc5096aa089ecd5cd33280fb0b92cd9c9d180c9",
+      "entries": 33
+    },
+    {
+      "year": 2026,
+      "url": "https://raw.githubusercontent.com/NateScarlet/holiday-cn/master/2026.json",
+      "papers": [
+        "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm"
+      ],
+      "sha256": "0dcfd8004351e132ce15e8444de4df123265b3f490f7e2f8346631122cb5b709",
+      "entries": 39
+    }
+  ],
+  "crossYearOverrides": []
+}
